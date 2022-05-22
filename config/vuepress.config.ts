@@ -36,6 +36,13 @@ export default defineUserConfig({
                 '/documentation/getting-started/usage.md',
               ],
             },
+            {
+              text: '2 The Yarn Workflow',
+              collapsible: true,
+              children: [
+                '/documentation/yarn-workflow/yarn-workflow.md',
+              ],
+            },
           ],
         },
       },
