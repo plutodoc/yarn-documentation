@@ -127,6 +127,7 @@ export default defineUserConfig({
                 '/documentation/cli/info.md',
                 '/documentation/cli/init.md',
                 '/documentation/cli/install.md',
+                '/documentation/cli/licenses.md',
               ],
             },
           ],
@@ -136,8 +137,7 @@ export default defineUserConfig({
   }),
   markdown: {},
   plugins: [
-    pwaPlugin({
-    }),
+    pwaPlugin({}),
     searchPlugin({
       locales: {
         '/': {
