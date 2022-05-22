@@ -55,6 +55,7 @@ export default defineUserConfig({
                 "/documentation/cli/cli.md",
                 "/documentation/cli/add.md",
                 "/documentation/cli/audit.md",
+                "/documentation/cli/autoclean.md",
               ],
             },
           ],
