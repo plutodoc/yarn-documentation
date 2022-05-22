@@ -48,6 +48,13 @@ export default defineUserConfig({
                 "/documentation/yarn-workflow/install-ci.md",
               ],
             },
+            {
+              text: "3 CLI Introduction",
+              collapsible: true,
+              children: [
+                "/documentation/cli/cli.md",
+              ],
+            },
           ],
         },
       },
