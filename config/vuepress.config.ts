@@ -53,6 +53,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 "/documentation/cli/cli.md",
+                "/documentation/cli/add.md",
               ],
             },
           ],
