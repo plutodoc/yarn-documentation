@@ -60,6 +60,7 @@ export default defineUserConfig({
                 '/documentation/cli/cache.md',
                 '/documentation/cli/check.md',
                 '/documentation/cli/config.md',
+                '/documentation/cli/create.md',
               ],
             },
           ],
