@@ -65,6 +65,7 @@ export default defineUserConfig({
                 '/documentation/cli/global.md',
                 '/documentation/cli/help.md',
                 '/documentation/cli/import.md',
+                '/documentation/cli/info.md',
               ],
             },
           ],
