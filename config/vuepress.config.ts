@@ -33,6 +33,7 @@ export default defineUserConfig({
               children: [
                 '/documentation/getting-started/getting-started.md',
                 '/documentation/getting-started/install.md',
+                '/documentation/getting-started/usage.md',
               ],
             },
           ],
