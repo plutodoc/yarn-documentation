@@ -41,6 +41,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/yarn-workflow/yarn-workflow.md',
+                "/documentation/yarn-workflow/creating-a-project.md",
               ],
             },
           ],
