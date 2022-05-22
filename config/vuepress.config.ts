@@ -128,6 +128,7 @@ export default defineUserConfig({
                 '/documentation/cli/init.md',
                 '/documentation/cli/install.md',
                 '/documentation/cli/licenses.md',
+                '/documentation/cli/link.md',
               ],
             },
           ],
