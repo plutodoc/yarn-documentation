@@ -54,6 +54,7 @@ export default defineUserConfig({
               children: [
                 "/documentation/cli/cli.md",
                 "/documentation/cli/add.md",
+                "/documentation/cli/audit.md",
               ],
             },
           ],
