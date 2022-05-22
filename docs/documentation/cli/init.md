@@ -26,16 +26,16 @@ This results in the following `package.json`:
 
 ```json
 {
-  "name": "my-awesome-package",
-  "version": "1.0.0",
-  "description": "The best package you will ever find.",
-  "main": "index.js",
-  "repository": {
-    "url": "https://github.com/yarnpkg/example-yarn-package",
-    "type": "git"
-  },
-  "author": "Yarn Contributor",
-  "license": "MIT"
+    "name": "my-awesome-package",
+    "version": "1.0.0",
+    "description": "The best package you will ever find.",
+    "main": "index.js",
+    "repository": {
+        "url": "https://github.com/yarnpkg/example-yarn-package",
+        "type": "git"
+    },
+    "author": "Yarn Contributor",
+    "license": "MIT"
 }
 ```
 
@@ -48,14 +48,14 @@ The following existing `package.json`:
 
 ```json
 {
-  "name": "my-existing-package",
-  "version": "0.1",
-  "description": "I exist therefore I am.",
-  "repository": {
-    "url": "https://github.com/yarnpkg/example-yarn-package",
-    "type": "git"
-  },
-  "license": "BSD-2-Clause"
+    "name": "my-existing-package",
+    "version": "0.1",
+    "description": "I exist therefore I am.",
+    "repository": {
+        "url": "https://github.com/yarnpkg/example-yarn-package",
+        "type": "git"
+    },
+    "license": "BSD-2-Clause"
 }
 ```
 
@@ -102,10 +102,10 @@ Which produces the following `package.json`:
 
 ```json
 {
-  "name": "yarn-example",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT"
+    "name": "yarn-example",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
 }
 ```
 
@@ -133,17 +133,17 @@ success Saved package.json
 
 ```json
 {
-  "name": "my-awesome-package",
-  "version": "1.0.0",
-  "description": "The best package you will ever find.",
-  "main": "index.js",
-  "repository": {
-    "url": "https://github.com/yarnpkg/example-yarn-package",
-    "type": "git"
-  },
-  "author": "Yarn Contributor",
-  "license": "MIT",
-  "private": true
+    "name": "my-awesome-package",
+    "version": "1.0.0",
+    "description": "The best package you will ever find.",
+    "main": "index.js",
+    "repository": {
+        "url": "https://github.com/yarnpkg/example-yarn-package",
+        "type": "git"
+    },
+    "author": "Yarn Contributor",
+    "license": "MIT",
+    "private": true
 }
 ```
 
@@ -162,10 +162,10 @@ Which produces the following `package.json`:
 
 ```json
 {
-  "name": "yarn-example",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "private": true
+    "name": "yarn-example",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "private": true
 }
 ```
