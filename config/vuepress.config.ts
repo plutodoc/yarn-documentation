@@ -32,6 +32,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/getting-started/getting-started.md',
+                '/documentation/getting-started/install.md',
               ],
             },
           ],
