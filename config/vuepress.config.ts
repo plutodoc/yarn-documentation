@@ -58,6 +58,7 @@ export default defineUserConfig({
                 '/documentation/cli/autoclean.md',
                 '/documentation/cli/bin.md',
                 '/documentation/cli/cache.md',
+                '/documentation/cli/check.md',
               ],
             },
           ],
