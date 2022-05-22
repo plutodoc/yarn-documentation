@@ -61,6 +61,7 @@ export default defineUserConfig({
                 '/documentation/cli/check.md',
                 '/documentation/cli/config.md',
                 '/documentation/cli/create.md',
+                '/documentation/cli/generate-lock-entry.md',
               ],
             },
           ],
