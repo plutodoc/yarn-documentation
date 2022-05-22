@@ -28,16 +28,16 @@ Now you should have a `package.json` that looks similar to this:
 
 ```json
 {
-  "name": "my-new-project",
-  "version": "1.0.0",
-  "description": "My New Project description.",
-  "main": "index.js",
-  "repository": {
-    "url": "https://example.com/your-username/my-new-project",
-    "type": "git"
-  },
-  "author": "Your Name <you@example.com>",
-  "license": "MIT"
+    "name": "my-new-project",
+    "version": "1.0.0",
+    "description": "My New Project description.",
+    "main": "index.js",
+    "repository": {
+        "url": "https://example.com/your-username/my-new-project",
+        "type": "git"
+    },
+    "author": "Your Name <you@example.com>",
+    "license": "MIT"
 }
 ```
 

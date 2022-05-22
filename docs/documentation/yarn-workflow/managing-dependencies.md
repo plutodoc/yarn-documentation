@@ -49,11 +49,11 @@ yarn add package-3@beta
 
 ```json
 {
-  "dependencies": {
-    "package-1": "1.2.3",
-    "package-2": "^1.0.0",
-    "package-3": "beta"
-  }
+    "dependencies": {
+        "package-1": "1.2.3",
+        "package-2": "^1.0.0",
+        "package-3": "beta"
+    }
 }
 ```
 
