@@ -45,6 +45,7 @@ export default defineUserConfig({
                 "/documentation/yarn-workflow/managing-dependencies.md",
                 "/documentation/yarn-workflow/installing-dependencies.md",
                 "/documentation/yarn-workflow/version-control.md",
+                "/documentation/yarn-workflow/install-ci.md",
               ],
             },
           ],
