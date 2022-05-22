@@ -43,6 +43,7 @@ export default defineUserConfig({
                 '/documentation/yarn-workflow/yarn-workflow.md',
                 "/documentation/yarn-workflow/creating-a-project.md",
                 "/documentation/yarn-workflow/managing-dependencies.md",
+                "/documentation/yarn-workflow/installing-dependencies.md",
               ],
             },
           ],
